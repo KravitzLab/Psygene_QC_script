@@ -1,7 +1,7 @@
 # FilepulldownQC App
 
 ## To use app
-1. Download and run application from github
+1. Download and run application from github (FilepulldownQC.EXE)
 - Run application on Windows computer
 2. Select if FED or BEAM data is being filtered
 - If FED data ensure all the files are in a single folder with the proper naming and FED number attached
